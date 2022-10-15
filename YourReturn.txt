@@ -1,0 +1,4 @@
+Your Taxable Income was: 387800
+Your State Taxes was: 31024
+Your Federal Taxes was: 77560
+-----------------106584
